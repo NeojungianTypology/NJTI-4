@@ -3,7 +3,7 @@ by Christian Johansson <christian@neojungiantypology.com>
 
 ## Abstract
 
-Personality-systems based on Jungs theories have received a lot of criticism over the years but is still popular. We create a test motivated by neuroscience of personality and make interpretations of Jungs theories and explores if we can create a test that fulfills formal requirements.
+Personality-systems based on Jungs theories have received a lot of criticism over the years but is still popular. We create a test motivated by the neurobiology of personality and make interpretations of Jungs theories and explores if we can create a test that fulfills formal requirements.
 Our aim is to make motivated physical reductions to biology of mental constructs related to individual differences in personality in philosophy, psychology, sociology and anthropology.
 
 ## Answer-options
@@ -225,13 +225,22 @@ Given one experiment with 500 serious results on the online-test, Cronbach's alp
 
 Statements are presented in a random order. We present the 40 real statements and the 4 false ones but do not reveal which statements are false. We use a technology to determine if the visitor uses JavaScript as a strong indication for whether the visitor is a human since robots rarely support JavaScript. Only the results which have responded positive or neutral on the false statements are included in the statistics.
 
-We calculate Cronbachs alpha, extra factors through orthogonal and oblique rotation with exploratory factor analysis where the number of factors are determined using parallel analysis. We do this in one experiment where each statement have been responded to by 500 testers which fulfill the requirements stated above.
+We calculate Cronbachs alpha, extra factors through orthogonal and oblique rotation with exploratory factor analysis where the number of factors are determined using parallel analysis. We do this with experiments where each statement have been responded to at least 200 testers which fulfill the requirements stated above.
 
 We collect data via a PHP-script and perform calculation by using established routines i R. Since we determine the number of factors to extract in exploratory factor analysis via parallel analysis the whole procedure is mechanistic and we have no part which are dependent on subjective interpretation. This means that the data goes from the test into the calculations without being affected in any way.
 
-### Result
+### Results
 
-**2016-03-28**
+**2016-06-15 - 200 tester**
+
+* Cronbach's alpha for factors is between 0.85 - 0.92 (EI, SN, TF, JP)
+* Cronbach's alpha for traits is between 0.69 - 0.92 (I, N, T, E, P, S, F, J)
+* Exploratory factor analysis (EFA) with promax rotation finds 4 factors where they fit perfectly with the designed factors
+* Exploratory factor analysis (EFA) with varimax rotation finds 4 factors where they fit perfectly with designed factors
+* 7 eigen-values above 1
+* p-value for varimax EFA is 4.6E-40, chi-square statistics: 1214, degrees of freedom: 626
+
+**2016-03-28 - 500 testers**
 
 * Cronbach's alpha for factors is between 0.84 - 0.91 (TF, SN, JP, EI)
 * Cronbach's alpha for traits is between 0.77 - 0.94 (T, F, S, N, J, P, E, I)
@@ -243,7 +252,7 @@ We collect data via a PHP-script and perform calculation by using established ro
 
 ## Discussion
 
-We can conclude that the results of our experiment was according to our hypothesis. We have additionally shown that it's possible to do a interpretation of Jungs personality-types which you can find empirical evidence for and can be motivated by neuroscience.
+We can conclude that the results of our experiments was according to our hypothesis. We have additionally shown that it's possible to do a interpretation of Jungs personality-types which you can find empirical evidence for and can be motivated by neurobiology.
 
 ## References
 
