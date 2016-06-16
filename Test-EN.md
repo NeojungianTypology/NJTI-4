@@ -102,7 +102,7 @@ Wanting to evaluate or look at ideas, facts, decisions or conclusions from an em
 From a neuroscientific perspective Symbolical types should have higher state-dependent connectivity to the DMN and lesser state-dependent connectivity to the TPN compared to Technological types.
 
 36. You enjoy trying to understand an idea based on what emotions it brings up in people
-40. You enjoy trying to understand things based on how they affect peoples mood
+40. You enjoy trying to understand things based on how they affect people's mood
 64. You like trying to understand a conclusion based on how it makes people feel
 78. You like judging an idea based on how much it means to people
 89. You enjoy evaluating decisions based on how they make people feel
