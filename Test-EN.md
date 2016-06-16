@@ -42,8 +42,8 @@ Not afraid of making mistakes because mistakes are not experienced as negative a
 
 From a neuroscientific perspective Doing types should have less quantity of striatal dopamine d2 receptors compared to the Thinking types.
 
-12. You easily dare to take the initiative with people even though you might do a blunder
-21. You easily try things even though you might make an error
+12. You easily dare to take the initiative with people even though you might make a blunder
+21. You can easily test things even though you might make errors
 24. It's effortless for you to test your way through situations
 54. It's natural for you to try activities even though you might make mistakes
 67. You effortlessly dare to test your way with other people even though you might do something wrong
@@ -60,8 +60,8 @@ Wanting to act reflectively and slow. New information is excluded from this.
 
 From a neuroscientific perspective Thinking types should have higher quantity of striatal dopamine d2 receptors compared to the Doing types.
 
-11. You are afraid of doing something wrong
-22. It's natural for you to halt and try to avoid making errors
+11. You are afraid of doing things the wrong way
+22. It's natural for you to stop to try to avoid making errors
 53. Your blunders affect you strongly
 55. It's natural for you to refrain from activities when you think you will make a mistake
 72. It's natural for you to be cautious with other people
@@ -101,8 +101,8 @@ Wanting to evaluate or look at ideas, facts, decisions or conclusions from an em
 
 From a neuroscientific perspective Symbolical types should have higher state-dependent connectivity to the DMN and lesser state-dependent connectivity to the TPN compared to Technological types.
 
-36. You enjoy trying to understand an idea based on what emotions it creates in people
-40. You enjoy trying to understand a thing based on how it affects peoples mood
+36. You enjoy trying to understand an idea based on what emotions it brings up in people
+40. You enjoy trying to understand things based on how they affect peoples mood
 64. You like trying to understand a conclusion based on how it makes people feel
 78. You like judging an idea based on how much it means to people
 89. You enjoy evaluating decisions based on how they make people feel
@@ -125,10 +125,10 @@ Wanting to stay in context or only focusing what is given or straightforward.
 
 From a neuroscientific perspective Realist types should have lesser state-dependent connectivity to the frontopolar region of the brain compared to the Idealist types.
 
-13. When speculating you like to only consider alternatives which are grounded in reality 
+13. When speculating you like to only consider alternatives which are grounded in reality
 31. You like to only relate things to factual experiences
 38. You like to base discussions only in existing things
-63. You enjoy to base discussions only in the realistic 
+63. You enjoy to base discussions only in the realistic
 65. You like to consider only factual or real events
 
 #### N - Idealist
@@ -143,11 +143,11 @@ Wanting to see beyond or between contexts and fantasize how things would be if f
 
 From a neuroscientific perspective Idealist types should have higher state-dependent connectivity to the frontopolar region of the brain compared to Realist types.
 
-39. You think it's exciting to fantasize how the world would look if facts were different
+39. You think it's exciting to fantasize about how the world would look if the facts were different
 49. You think it's exciting to imagine how a theory would work in a different context
-56. You find searching for hypothetical similarities between different contexts exciting
-75. You enjoy fantasizing about alternative associations or relationships between things
-84. You enjoy fantasizing about possible parallels between different contexts
+56. You find searching for hypothetical similarities between different contexts to be exciting
+75. You enjoy fantasizing about alternative associations and the relationships between various things
+84. You enjoy fantasizing about possible parallels between different situations
 
 ### JP
 
@@ -171,11 +171,11 @@ Wanting to experience stability and predictability to be able to make long-term 
 
 From a neuroscientific perspective Judging types should have a higher prefrontal dopamine level compared to Perceiving types.
 
-23. When you hear about new tasks you like to finish what you are working on before changing task
-61. You like doing one thing at a time
-68. You enjoy finishing what you have started before you change task
-73. You like to finish what you are focusing on before you start focusing on something new
-79. You enjoy reaching an closure in a activity before you do anything else
+23. When you hear about a new task you generally prefer to finish what you were previously working on before changing task
+61. You prefer to do one thing at a time
+68. You enjoy finishing what you have started before you start something new
+73. You like to finish what you are currently focusing on before you start focusing on something new
+79. You enjoy reaching closure in an activity before you do anything else
 
 #### P - Perceiving
 
@@ -190,10 +190,10 @@ Wanting to experience changes and new impressions to adapt to new situations and
 From a neuroscientific perspective Perceiving types should have a lower prefrontal dopamine level compared to Judging types.
 
 33. You enjoy to swiftly focus on something new
-52. You enjoy hastily changing goal or activity
-59. You like a flexible climate with rapid changes
-103. You enjoy to promptly get set on something unexpected
-108. You like quick changes of tasks
+52. You enjoy to hastily change from one activity to another
+59. You like flexible environments with rapid changes
+103. You enjoy to promptly adapt to something unexpected
+108. You like quick changes between tasks
 
 ### FAKE
 
