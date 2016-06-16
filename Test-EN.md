@@ -217,13 +217,13 @@ From a neuroscientific perspective this should indicate that the dichotomies sho
 
 ### Hypothesis
 
-A serious result on the test is a result which had activated JavaScript in their web-browser and has answered enough positive on the false statements.
+A serious result on the test is a result which had activated JavaScript in their web-browser and has answered enough positive on the fake statements.
 
-Given one experiment with 500 serious results on the online-test, Cronbach's alpha for all four factors should exceed the established accepted limit at 0.7 and the p-value for exploratory factor-analysis should be below the established level of 5% or 0.05 and we should find 4 orthogonal factors matching design.
+Given one experiment with 500 serious results on the online-test, Cronbach's alpha for all four factors should exceed the established accepted limit at 0.7 and the p-value for exploratory factor-analysis should be below the established level of 5% or 0.05 and we should find at least 4 orthogonal factors matching the design.
 
 ### Method
 
-Statements are presented in a random order. We present the 40 real statements and the 4 false ones but do not reveal which statements are false. We use a technology to determine if the visitor uses JavaScript as a strong indication for whether the visitor is a human since robots rarely support JavaScript. Only the results which have responded positive or neutral on the false statements are included in the statistics.
+Statements are presented in a random order. We present the 40 real statements and the 3 fake ones but do not reveal which statements are fake. We use a technology to determine if the visitor uses JavaScript as a strong indication for whether the visitor is a human since robots rarely support JavaScript. Only the results which have responded positive or neutral on the fake statements are included in the statistics.
 
 We calculate Cronbachs alpha, extra factors through orthogonal and oblique rotation with exploratory factor analysis where the number of factors are determined using parallel analysis. We do this with experiments where each statement have been responded to at least 200 testers which fulfill the requirements stated above.
 
