@@ -1,4 +1,4 @@
-# NJTI-4-SV
+# NJTI-4-SV - En fyra faktors neuropsykologiskt personlighetstest på svenska
 av Christian Johansson <christian@neojungiantypology.com>
 
 Att göra: Lägga till neuropsykologi referenser
@@ -6,6 +6,7 @@ Att göra: Lägga till neuropsykologi referenser
 ## Sammanfattning
 
 Personlighetssystem baserade på Jungs teorier har fått mycket kritik genom åren men populariteten är fortfarande stor. Vi skapar ett test genom att utgå från neurovetenskap om personlighet och gör tolkningar utifrån Jungs teorier och ser om vi kan skapa ett test som uppfyller formella krav.
+Vårt mål är att göra motiverade fysiska reduktioner till biologi av mentala konstruktioner relaterade till individuella skillnader i personlighet.
 
 ## Svarsalternativ
 
@@ -217,6 +218,15 @@ Vi avläser Cronbachs alfa, vi utvinner faktorer genom ortogonal och oblik rotat
 Vi samlar in data via ett script i PHP och gör beräkningar genom att använda etablerade rutiner i R. Eftersom vi tar beslut om antalet faktorer att utvinna i exploratory faktoranalys genom parallell analys gör att hela förfarandet blir mekaniskt och vi har ingen del som beror på subjektivt tolkande. Dvs, datan går  oförändrad från testet in i beräkningar och påverkas inte på något sätt längst vägen.
 
 ### Resultat
+
+**2016-07-02**
+
+* Cronbachs alfa för faktorer går mellan 0.82 - 0.89 (TF, SN, EI, JP)
+* Cronbachs alfa för egenskaper går mellan 0.76 - 0.9 (I, T, N, S, P, F, E, J)
+* Exploratory faktoranalys (EFA) med promax rotation hittar 5 faktorer där 4 av dem perfekt matchar de designade faktorerna
+* Exploratory faktoranalys (EFA) med varimax rotation hittar 5 faktorer där 4 av dem perfekt matchar de designade faktorerna
+* 7 eigenvärden över 1
+* p-värdet for varimax EFA är 1.1E-209, chitvå statistik: 2359, frihetsgrad: 590
 
 **2016-06-17**
 

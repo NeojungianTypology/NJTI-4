@@ -1,10 +1,10 @@
-# NJTI-4-EN
+# NJTI-4-EN - A four factor neuropsychological personality test in English
 by Christian Johansson <christian@neojungiantypology.com>
 
 ## Abstract
 
 Personality-systems based on Jungs theories have received a lot of criticism over the years but is still popular. We create a test motivated by the neurobiology of personality and make interpretations of Jungs theories and explores if we can create a test that fulfills formal requirements.
-Our aim is to make motivated physical reductions to biology of mental constructs related to individual differences in personality in philosophy, psychology, sociology and anthropology.
+Our aim is to make motivated physical reductions to biology of mental constructs related to individual differences in personality.
 
 ## Answer-options
 
@@ -69,7 +69,7 @@ From a neuroscientific perspective Thinking types should have higher quantity of
 ### TF
 
 From a neuroscientific perspective, state-dependent connectivity to the default-mode-network (DMN) vs task-positive-network (TPN) manifests in psychological differences in the balance of social/phenomenal/moral cognition vs mechanistic/formal cognition.
-Since state-dependent connectivity to the networks is anti-correlated, traits based on this should be anti-correlated and therefore dichotomous. [4, 33, 34, 35, 36, 37, 38, 39, 40, 41]
+Since state-dependent connectivity to the networks is anti-correlated, traits based on this should be anti-correlated and therefore dichotomous. [4, 33, 34, 35, 36, 37, 38, 39, 40, 41, 50, 51, 52, 53, 54, 55]
 
 #### T - Technical
 
@@ -231,14 +231,14 @@ We collect data via a PHP-script and perform calculation by using established ro
 
 ### Results
 
-**2016-06-15 - 200 tester**
+**2016-07-03 - 500 testers**
 
-* Cronbach's alpha for factors is between 0.85 - 0.92 (EI, SN, TF, JP)
-* Cronbach's alpha for traits is between 0.69 - 0.92 (I, N, T, E, P, S, F, J)
+* Cronbach's alpha for factors is between 0.84 - 0.91 (SN, EI, TF, JP)
+* Cronbach's alpha for traits is between 0.69 - 0.91 (I, T, N, E, S, P, J, F)
 * Exploratory factor analysis (EFA) with promax rotation finds 4 factors where they fit perfectly with the designed factors
 * Exploratory factor analysis (EFA) with varimax rotation finds 4 factors where they fit perfectly with designed factors
 * 7 eigen-values above 1
-* p-value for varimax EFA is 4.6E-40, chi-square statistics: 1214, degrees of freedom: 626
+* p-value for varimax EFA is 9.1E-141, chi-square statistics: 1983, degrees of freedom: 626
 
 **2016-03-28 - 500 testers**
 
@@ -284,12 +284,18 @@ C. G. Jung  "Psychological Types" 1921 [1]
 * ["Neural foundations for understanding social and mechanical concepts", Alex Martina et al., 2003](http://www.tandfonline.com/doi/abs/10.1080/02643290342000005) [39]
 * ["Resting state functional connectivity associated with trait emotional intelligence", Hikaru Takeuchi et al., 2013](http://www.sciencedirect.com/science/article/pii/S1053811913006812) [40]
 * ["Synchronous activation within the default mode network correlates with perceived social support", Xianwei Che et al., 2014](http://www.sciencedirect.com/science/article/pii/S0028393214002632) [41]
+* ["Processing Narratives Concerning Protected Values: A Cross-Cultural Investigation of Neural Correlates", Jonas T. Kaplan et al., 2016](http://cercor.oxfordjournals.org/content/early/2016/01/06/cercor.bhv325.abstract) [50]
+* ["The Default Network and Social Cognition", R.N. Spreng et al., 2015](http://www.sciencedirect.com/science/article/pii/B9780123970251001731) [51]
+* ["Patterns of Brain Activity Supporting Autobiographical Memory, Prospection, and Theory of Mind, and Their Relationship to the Default Mode Network", R. Nathan Spreng et al., 2010](http://www.mitpressjournals.org/doi/abs/10.1162/jocn.2009.21282) [52]
+* ["Evidence for the Default Network's Role in Spontaneous Cognition", Jessica R. Andrews-Hanna et al., 2010](http://jn.physiology.org/content/104/1/322.short) [53]
+* ["Minds at rest? Social cognition as the default mode of cognizing and its putative relationship to the 'default system' of the brain", Leo Schilbach et al., 2008](http://www.sciencedirect.com/science/article/pii/S1053810008000378) [54]
+* ["The Link between Social Cognition and Self-referential Thought in the Medial Prefrontal Cortex", Jason P. Mitchell, 2005](http://www.mitpressjournals.org/doi/abs/10.1162/0898929055002418) [55]
 
 ### SN-dichotomy
 
 * ["Associative Recognition Memory Awareness Improved by Theta-Burst Stimulation of Frontopolar Cortex", Anthony J. Ryals et al., 2015](http://cercor.oxfordjournals.org/content/early/2015/01/09/cercor.bhu311.short) [9]
 * ["The Nature and Neural Correlates of Semantic Association versus Conceptual Similarity", Rebecca L. Jackson et al., 2015](http://cercor.oxfordjournals.org/content/early/2015/01/30/cercor.bhv003.short) [10]
-* ["Increasing breadth of semantic associations with left frontopolar direct current brain stimulation: a role for individual differences", Brunyé, Tad T. et al., 2015](http://journals.lww.com/neuroreport/Abstract/2015/03020/Increasing_breadth_of_semantic_associations_with.13.aspx) [11]
+* ["Increasing breadth of semantic associations with left frontopolar direct current brain stimulation: a role for individual differences", Brunye, Tad T. et al., 2015](http://journals.lww.com/neuroreport/Abstract/2015/03020/Increasing_breadth_of_semantic_associations_with.13.aspx) [11]
 * ["The role of the frontopolar cortex in manipulation of integrated information in working memory", Chobok Kim et al., 2015](http://www.sciencedirect.com/science/article/pii/S0304394015002372) [12]
 * ["Dynamic Network Mechanisms of Relational Integration", Beth L. Parkin et al., 2015](http://www.jneurosci.org/content/35/20/7660.short) [13]
 * ["Frontopolar activity and connectivity support dynamic conscious augmentation of creative state", Adam E. Green et al., 2014](http://onlinelibrary.wiley.com/doi/10.1002/hbm.22676/full) [14]
