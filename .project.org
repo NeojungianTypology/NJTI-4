@@ -1,0 +1,4 @@
+* DONE Göra så att temperament och världsbilder ligger i egna filer
+
+* TODO Göra så att alla texter är i du-form, klara: INTJ, INFJ
+* TODO Översätta beskrivningar till engelska

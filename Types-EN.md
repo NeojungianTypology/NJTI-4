@@ -35,17 +35,17 @@ As a perceiver you enjoy quickly changing tasks and exploring new possibilities 
 
 ## World-views
 
-### NT - Intellectual
-As an intellectual, you seek to find the underlying principles that lies behind performing well in tasks, hierarchies and competitions and strive to establish these ideals in society. Intellectuals are curious of the concepts and ideas that define success and try to refine and redefine these in their path of refining and redefining their own performance as well as the performance of people in their society.
+### NT - Rational
+As an rational, you seek to find the underlying principles that lies behind performing well in tasks, hierarchies and competitions and strive to establish these ideals in society. You are curious of the concepts and ideas that define success and try to refine and redefine these in their path of refining and redefining their own performance as well as the performance of people in their society.
 
-### NF - Empathic
-As an empath, you seek to find the themes and settings which creates the right experience and motivation for people to build a ideal society which is purposeful and ethical. Empaths are curious of the narratives and symbols that form the foundation for what’s right and wrong and strive to refine these in their path of cultivating their ethical compass as well as cultivating the ethical compass of their fellow-man.
+### NF - Existential
+As an existential, you seek to find the themes and settings which creates the right experience and motivation for people to build a ideal society which is purposeful and ethical. You are curious of the narratives and symbols that form the foundation for what’s right and wrong and strive to refine these in their path of cultivating their ethical compass as well as cultivating the ethical compass of their fellow-man.
 
-### SF - Social
-As a social, you seek to find the common themes and settings which are the foundation for the identity of your people. Socials are interested in the traditional narratives and symbols which have formed society so far and how to use these symbols to maintain the social identity of their people in spite of new changes in society.
+### SF - Popular
+As a popular, you seek to find the common themes and settings which are the foundation for the identity of your people. You are interested in the traditional narratives and symbols which have formed society so far and how to use these symbols to maintain the social identity of their people in spite of new changes in society.
 
-### ST - Practical
-As a practical, you seek to find the common procedures and routines that are the backbone of everyday efficiency in society. Practicals are interested in the established protocols and methods and how to efficiently keep using them to perform well in tasks, hierarchies and competitions in spite of new changes in society.
+### ST - Technical
+As a technical, you seek to find the common procedures and routines that are the backbone of everyday efficiency in society. You are interested in the established protocols and methods and how to efficiently keep using them to perform well in tasks, hierarchies and competitions in spite of new changes in society.
 
 ## Temperaments
 
